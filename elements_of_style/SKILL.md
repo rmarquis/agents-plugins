@@ -262,6 +262,23 @@ Many of these are not bad English so much as bad style—the commonplaces of car
 | wise | — | Avoid *security-wise*, *weather-wise*. |
 | you know | (omit) | |
 
+## Avoid the mannerisms of generated text
+
+AI-generated prose has predictable tics. When editing, remove these markers so the writing sounds like a human author rather than a template.
+
+| Marker | Problem | Prefer |
+|---|---|---|
+| Emoji and emoticons (😊, 🚀, ✅) | Visual clutter; inappropriate in formal prose. | Plain words or punctuation. |
+| Overused em dashes (—) | AI uses dashes for every aside, producing a choppy rhythm. | Commas, parentheses, or a recast sentence. |
+| Excessive bullet lists and numbered steps | Fragments prose into slide-deck chunks. | Paragraphs with topic sentences. |
+| Hedge phrases (*it is important to note*, *it is worth noting*, *it should be noted*) | Empty throat-clearing. | State the fact directly. |
+| Boilerplate transitions (*Moreover*, *Furthermore*, *Additionally*, *That being said*, *In conclusion*) | Mechanical signposting. | Use only when the turn truly needs emphasis; otherwise omit or recast. |
+| Abstract buzzwords (*robust*, *holistic*, *seamless*, *leverage*, *optimize*, *empower*, *delve*, *landscape*, *ecosystem*) | Vague enthusiasm replacing specific thought. | Concrete nouns and verbs. |
+| First-person plural or direct address (*we can see*, *let's consider*, *as you can see*) | False intimacy or lecturing. | Direct statement. |
+| Chat-style closings (*I hope this helps*, *feel free to ask*, *let me know if you have any questions*) | Assistant-template residue. | End cleanly. |
+| Empty openers (*In today's world*, *In the ever-evolving landscape of...*) | Clichéd framing. | Cut to the subject. |
+| Perfectly symmetrical structure | Predictable, machine-like rhythm. | Vary sentence length and structure. |
+
 ## An approach to style
 
 These reminders from E. B. White guide the writer's broader habits of mind.
@@ -350,6 +367,11 @@ These reminders from E. B. White guide the writer's broader habits of mind.
 - Do not overload sentences with qualifiers.
 - Do not use fancy or foreign words when simple English works.
 - Do not explain the obvious.
+- Do not use emoji or emoticons in prose.
+- Do not overuse em dashes or rely on them for every parenthetical.
+- Do not replace paragraphs with bullet lists when prose is more appropriate.
+- Do not use hedge phrases or boilerplate transitions as filler.
+- Do not use buzzwords when a concrete word exists.
 
 ## Example transformation
 
